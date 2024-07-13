@@ -1,0 +1,2 @@
+KNN Accuracy: 0.58
+CNN Accuracy: 0.92
